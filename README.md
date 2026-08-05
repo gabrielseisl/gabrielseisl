@@ -1,16 +1,18 @@
-<h1 align="center">Gabriel Seisl</h1>
+<h1 align="center">Olá, Sou Gabriel Seisl</h1>
 
 <p align="center">
-Estudante de programação focado em desenvolvimento de software e sempre buscando evoluir através de novos projetos e tecnologias.
+Estudante de programação, buscando virar um programador profissional
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Python;MySQL" alt="Typing SVG" />
+</p>
 
-<img height="35" src="https://skillicons.dev/icons?i=python,mysql,fastapi,git,github,vscode&theme=dark">
+<h1 align="center">Tecnologias</h1>
 
-</div>
-
-<br>
+<p align="center">
+  <img height="35" src="https://skillicons.dev/icons?i=python,mysql,fastapi,git,github,vscode&theme=dark">
+</p>
 
 <h3 align="center">Bibliotecas e ferramentas</h3>
 
@@ -18,9 +20,6 @@ Estudante de programação focado em desenvolvimento de software e sempre buscan
 Requests · Pillow · qrcode · OpenPyXL · OpenCV · Tkinter
 </p>
 
-##
-<br>
-
 <p align="center">
-Sempre tentando evoluir, uma linha de código por vez.
+  <img src="https://streak-stats.demolab.com?user=gabrielseisl&theme=dark&hide_border=true&background=00000000&hide_progress=true" />
 </p>
