@@ -19,7 +19,3 @@
 <p align="center">
   Requests · Pillow · qrcode · OpenPyXL · OpenCV · Tkinter
 </p>
-
-<p align="center">
-  <img width="600" src="https://streak-stats.demolab.com?user=gabrielseisl&theme=dark&hide_border=true&background=00000000&hide_progress=true" />
-</p>
